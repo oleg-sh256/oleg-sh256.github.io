@@ -2,6 +2,7 @@ body {
 	font-size: 2rem;
 	background: #00000080;
 	padding: 40px;
+	text-align: center;
 }
 
 html {
@@ -62,6 +63,10 @@ hr {
 .copyright {
 	text-align: right;
 	font-size: 12px;
+}
+
+.fotka {
+	width: 50%;
 }
 
 /*Планшеты*/
